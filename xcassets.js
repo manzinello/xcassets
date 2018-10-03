@@ -3,4 +3,6 @@
 const argv = require("yargs").argv;
 
 let x = require("./lib");
-x.xcassets();
+
+let testfile = "appIcon.png";
+x.xcassets(testfile);
