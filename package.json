@@ -1,0 +1,30 @@
+{
+  "name": "xcassets",
+  "version": "0.1.0",
+  "description": ".xcassets resources generator",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzinello/xcassets.git"
+  },
+  "bin": {
+    "color": "./xcassets.js"
+  },
+  "keywords": [
+    "xcassets",
+    "xcode",
+    "ios"
+  ],
+  "author": "Matteo Manzinello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzinello/xcassets/issues"
+  },
+  "homepage": "https://github.com/manzinello/xcassets#readme"
+}
