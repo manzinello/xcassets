@@ -1,8 +1,11 @@
 #!/usr/bin/env node
 
 const argv = require("yargs").argv;
+const x = require("./lib");
+const defaultIcon = "appIcon.png";
 
-let x = require("./lib");
-
-let testfile = "appIcon.png";
-x.xcassets(testfile);
+if (argv.icon) {
+  x.xcassets(argv.icon);
+} else {
+  x.xcassets(defaultIcon);
+}
