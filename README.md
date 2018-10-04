@@ -4,7 +4,13 @@
 
 Generate **xcassets** resources for your iOS application
 
-## How
+**THIS PACKAGE IS WORK IN PROGRESS**
+
+## Getting started
+
+[![NPM](https://nodei.co/npm/xcassets.png?compact=true)](https://www.npmjs.com/package/xcassets)
+
+## Generate xcassets
 
 At the moment the package is **WORK IN PROGRESS**, but you can install it and generate `AppIcon.appiconset` in the correct `Images.xcassets` running the command
 
