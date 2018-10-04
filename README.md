@@ -1,11 +1,15 @@
 ![](assets/apple_logo.png)
 
-// WORK IN PROGRESS
-
 # 📲 xcassets
 
 Generate **xcassets** resources for your iOS application
 
 ## How
 
-Call `xcassets [filename.png]` to generate a the `Images.xcassets` directory with all the correct resources for your iOS app, at the moment will be created the appIcon folder from a PNG, with all the correct size
+At the moment the package is **WORK IN PROGRESS**, but you can install it and generate `AppIcon.appiconset` in the correct `Images.xcassets` running the command
+
+```
+xcassets
+```
+
+in a folder with an `appIcon.png` file (at least **1024x1024**!). This command will create `Images.xcassets/AppIcon.appiconset` with all the resources that you can import in your app in XCode.
