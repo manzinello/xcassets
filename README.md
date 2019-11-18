@@ -1,4 +1,4 @@
-![](assets/apple_logo.png)
+![](https://raw.githubusercontent.com/manzinello/xcassets/master/assets/apple_logo.png)
 
 # 📲 xcassets
 
