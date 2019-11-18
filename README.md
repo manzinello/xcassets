@@ -28,7 +28,7 @@ or
 xcassets --icon [PNG_FILE]
 ```
 
-[write me an email]: mailto:matteomanzinello@gmail.com
+[write me an email]: mailto:matteo@manzinello.dev
 
 > with `[PNG_FILE]` the icon in PNG format (at least 1024x1024!)
 
