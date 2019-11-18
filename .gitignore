@@ -3,3 +3,4 @@ coverage
 npm-debug.log
 package-lock.json
 *.tgz
+.DS_Store
