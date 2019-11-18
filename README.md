@@ -42,6 +42,18 @@ xcassets
 
 📲 **xcassets** will create for you a folder called `Images.xcassets` with sub-folder `AppIcon.appiconset` and all the correct resources. You can now import the entire `Images.xcassets` directly in **XCode**
 
+### help
+
+```
+$ xcassets -h
+Usage: xcassets [options]
+
+Options:
+  -i, --icon     The original icon in png format        [default: "appIcon.png"]
+  -h, --help     Show help                                             [boolean]
+ -v, --version  Show version number                                   [boolean]
+```
+
 ## Future work
 
 At the moment xcassets generate only app-icon assets!
